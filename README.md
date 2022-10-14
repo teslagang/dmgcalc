@@ -49,5 +49,5 @@ lotus       3,003,048       3,057,196
 - do bosses have "crit dmg reduction" in addition to crit resist?
 - add logic for paladin threaten and fever 
 - for single file analysis, 
--- breakdown of what to improve?
--- hypotheticals? "-2 cd + 4 fd" will take current stats, adjust according to input, and report dmg into a new column?
+  - breakdown of what to improve?
+  - hypotheticals? "-2 cd + 4 fd" will take current stats, adjust according to input, and report dmg into a new column?
