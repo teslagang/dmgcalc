@@ -41,3 +41,13 @@ lotus       3,003,048       3,057,196
    GD     *12,731,899     *12,731,899
    SF     *12,731,899     *12,731,899
    ```
+   
+# TODO
+- buckshot cannonneer option applies -55% fd. maybe option --buckshot
+- check if all hyper passive boosts give flat 20%
+- verify damage reduction values for bosses
+- do bosses have "crit dmg reduction" in addition to crit resist?
+- add logic for paladin threaten and fever 
+- for single file analysis, 
+-- breakdown of what to improve?
+-- hypotheticals? "-2 cd + 4 fd" will take current stats, adjust according to input, and report dmg into a new column?
