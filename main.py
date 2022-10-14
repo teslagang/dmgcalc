@@ -1,4 +1,4 @@
-import sys, tabulate, argparse, pandas
+import tabulate, argparse
 from getstats import *
 from bossvalues import *
 from dmgcalcs import *
@@ -8,7 +8,7 @@ def main(argv):
     filenames = argv.char
 
     dmg_tab = {}
-    for (i, f) in enumerate(filenames):
+    for f in filenames:
         dmg_tab[f] = []
         stats = get_stats(f)
         #! are these hyper stat values 20% for all classes?
